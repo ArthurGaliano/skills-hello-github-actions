@@ -2,23 +2,9 @@
 
 # Hello GitHub Actions
 
-_Create and run a GitHub Actions workflow._
+_Create and run a GitHub Actions workflow.
 
 </header>
-## Step 1: Create a workflow file
-## Step 1: Create a workflow file
-## Step 1: Create a workflow file
-## Step 1: Create a workflow file
-## Step 1: Create a workflow file
-## Step 1: Create a workflow file
-
-## Step 1: Create a workflow file
-## Step 1: Create a workflow file
-## Step 1: Create a workflow file
-## Step 1: Create a workflow file
-## Step 1: Create a workflow file
-## Step 1: Create a workflow file
-## Step 1: Create a workflow file
 ## Step 1: Create a workflow file
 
 _Welcome to "Hello GitHub Actions"! :wave:_
